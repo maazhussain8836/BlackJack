@@ -100,7 +100,7 @@ const Screen4 = ({navigation}) => {
     return (
       <View style={styles.cView}>
         <View style={{padding: 5}}>
-          <View style={{alignItems: 'flex-end'}}>
+          <View style={{alignItems: 'flex-start'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}
@@ -115,7 +115,7 @@ const Screen4 = ({navigation}) => {
               color={'#000'}
             />
           </View>
-          <View style={{alignItems: 'flex-start', justifyContent: 'center'}}>
+          <View style={{alignItems: 'flex-end', justifyContent: 'center'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}
@@ -151,7 +151,7 @@ const Screen4 = ({navigation}) => {
     return (
       <View style={styles.cView}>
         <View style={{padding: 5}}>
-          <View style={{alignItems: 'flex-end'}}>
+          <View style={{alignItems: 'flex-start'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}
@@ -166,7 +166,7 @@ const Screen4 = ({navigation}) => {
               color={'#000'}
             />
           </View>
-          <View style={{alignItems: 'flex-start', justifyContent: 'center'}}>
+          <View style={{alignItems: 'flex-end', justifyContent: 'center'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}
@@ -202,7 +202,7 @@ const Screen4 = ({navigation}) => {
     return (
       <View style={styles.cView}>
         <View style={{padding: 5}}>
-          <View style={{alignItems: 'flex-end'}}>
+          <View style={{alignItems: 'flex-start'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}
@@ -217,7 +217,7 @@ const Screen4 = ({navigation}) => {
               color={'#000'}
             />
           </View>
-          <View style={{alignItems: 'flex-start', justifyContent: 'center'}}>
+          <View style={{alignItems: 'flex-end', justifyContent: 'center'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={17}

@@ -71,7 +71,7 @@ console.log(apiData,'Api data')
     return (
       <View style={styles.cView}>
         <View style={{padding: 5}}>
-          <View style={{alignItems: 'flex-end'}}>
+          <View style={{alignItems: 'flex-start'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={20}
@@ -86,7 +86,7 @@ console.log(apiData,'Api data')
               color={'#000'}
             />
           </View>
-          <View style={{alignItems: 'flex-start', justifyContent: 'center'}}>
+          <View style={{alignItems: 'flex-end', justifyContent: 'center'}}>
             <MaterialCommunityIcons
               name={'cards-spade'}
               size={20}
